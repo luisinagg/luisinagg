@@ -3,13 +3,36 @@
 
 # **Hola, Soy [Luisina González](https://www.linkedin.com/in/luisina-gonzalez/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
+Full stack web Developer
 
-<div align="center" >
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
-</div> 
+💻Tech-Skills :
+JavaScript || Node JS || Express || PostgreSQL || MongoDB || Sequelize || React JS || Redux || CSS || GitHub || HTML
+
+
+### Acerca de mi
+
+Me gusta estar en constante crecimiento con la capacidad de aprender nuevas tecnologías y adaptarme con facilidad a nuevos equipos de trabajo logrando proyectos web escalables.
+
+Me apasionan los desafíos y mas si enriquecen mis conocimientos.
+Me gusta compartir y ayudar a los demás, por esto amo el trabajo en equipo. Disfruto conocer y relacionarme con personas de diferentes lugares y culturas.🌐🗺️
+
+### 📌 Experiencia
+
+Mi experiencia académica comenzó el año pasado(2021), donde me gané una beca municipal de la ciudad donde actualmente vivo para aprender a programar desde cero.
+Este año pude perfeccionarme en el bootcamp SoyHenry, utilizando JavaScript con sus librerías y frameworks.
+
+Ademas tuve la oportunidad de ser Full stack Teaching Assistant donde aprendí a:
+
+• Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio.
+• Orientar a los estudiantes en los primeros pasos de la cursada.
+• Asistir la resolución de ejercicios y promover la colaboración grupal (Pair Programming).
+• Proponer ideas para la mejora de los procesos del Bootcamp.
+
+
+
 
 ## Lenguajes y herramientas
-![LENGUAJES](https://user-images.githubusercontent.com/103950921/189976979-ba75275e-9573-4a46-85bd-c18edd18c418.png)
+
 
 ## 🌟 Insignias - Estadísticas GitHub
 <p align="center">
