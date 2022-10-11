@@ -22,7 +22,7 @@ Me gusta compartir y ayudar a los demás, por esto amo el trabajo en equipo. Dis
 Mi experiencia académica comenzó el año pasado(2021), donde me gané una beca municipal de la ciudad donde actualmente vivo para aprender a programar desde cero.
 Este año pude perfeccionarme en el bootcamp SoyHenry, utilizando JavaScript con sus librerías y frameworks.
 
-Ademas tuve la oportunidad de ser Full stack Teaching Assistant donde aprendí a:
+Además tuve la oportunidad de ser Full stack Teaching Assistant donde aprendí a:
 
 • Coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio.
 • Orientar a los estudiantes en los primeros pasos de la cursada.
